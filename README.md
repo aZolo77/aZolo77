@@ -5,9 +5,9 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Georgia, Batumi
-* 🖥️  See my portfolio at [zollo-portfolio](http://zollo.pro)
+* 🚧 Portfolio website in development. Stay tuned for its launch!
 * ✉️  You can contact me at [lxzw1988@gmail.com](mailto:lxzw1988@gmail.com)
-* 🚀  I'm currently working on [Hostland Site](http://hostland.ru)
+* 🚀  I'm currently working on [Hostland Site](https://hostland.ru)
 * 🧠  I'm learning NextJS & Data Structures
 * 🤝  I'm open to collaborating on any Projects
 * ⚡  Beach Proximity Paradox: I live by the sea, but I visit it so rarely that my tan is more from the glow of my monitor than from the sun
