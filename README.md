@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Georgia, Batumi
-* 🚧 Portfolio website in development. Stay tuned for its launch!
+* 🚧 [Portfolio website](https://zollotov.vercel.app/)
 * ✉️  You can contact me at [lxzw1988@gmail.com](mailto:lxzw1988@gmail.com)
 * 🚀  I'm currently working on [Hostland Site](https://hostland.ru)
 * 🧠  I'm learning NextJS & Data Structures
